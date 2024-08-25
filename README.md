@@ -5,6 +5,8 @@
 
 C# algorithm with pseudo 3D rotation
 
+https://youtu.be/Hkn7qh72qlk
+
 ![image](https://github.com/user-attachments/assets/0170dad3-a588-48d4-953e-69d3a22d965e)
 
 
