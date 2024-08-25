@@ -1,6 +1,13 @@
 # 3DROTATION
  C# algorithms
 
+# 3d-matrix-rotation
+
+C# algorithm with pseudo 3D rotation
+
+![image](https://github.com/user-attachments/assets/0170dad3-a588-48d4-953e-69d3a22d965e)
+
+
 # 3d-quaternion-rotation
 
 C# algorithm with pseudo 3D rotation
