@@ -6,6 +6,7 @@
 C# algorithm to open OBJ file and rotate by matrix calculation.
 
 - Youtube: https://youtu.be/-SgRjxOQuhU
+- Rutube: https://rutube.ru/video/private/e0e084eaf43554cb9a615ed937072666/?p=elN5QKG587hSWiAMd-KO_A
 
 ![image](https://github.com/user-attachments/assets/e22df2d8-9b56-46b5-ac5a-b86a0e03672e)
 
