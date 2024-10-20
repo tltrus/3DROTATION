@@ -36,4 +36,5 @@ C# algorithm with pseudo 3D rotation.
 Path Geometry is used for drawing the surfaces. But there is a problem with XOR effect. Now I'm looking for a solution.
 - Youtube: 
 - Rutube:
+
 ![image](https://github.com/user-attachments/assets/c538e9f9-964b-4624-b1d6-db43d368e2c8)
