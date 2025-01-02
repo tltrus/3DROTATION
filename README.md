@@ -6,7 +6,7 @@
 C# algorithm to open OBJ file and rotate by matrix calculation.
 
 - Youtube: https://youtu.be/-SgRjxOQuhU
-- Rutube: https://rutube.ru/video/private/e0e084eaf43554cb9a615ed937072666/?p=elN5QKG587hSWiAMd-KO_A
+- Rutube: 
 
 ![image](https://github.com/user-attachments/assets/e22df2d8-9b56-46b5-ac5a-b86a0e03672e)
 
@@ -35,6 +35,6 @@ C# algorithm with pseudo 3D rotation.
 
 Path Geometry is used for drawing the surfaces. But there is a problem with XOR effect. Now I'm looking for a solution.
 - Youtube: https://youtu.be/Whzi3J-NXn8
-- Rutube: https://rutube.ru/video/d73464cac70c0ca9b41ddd6150438816/
+- Rutube: 
 
 ![image](https://github.com/user-attachments/assets/c538e9f9-964b-4624-b1d6-db43d368e2c8)
